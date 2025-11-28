@@ -5,7 +5,7 @@
  * @fileoverview this program will ask the user for their name, a course 
  *     they are currently taking in school, and the last three test marks 
  *     for that course. The output of the program will be the student's name,
- *      their course, the three marks, and the average of the three test marks
+ *      their course, the three marks, and the average of the three test marks.
  */
 
 // variables
